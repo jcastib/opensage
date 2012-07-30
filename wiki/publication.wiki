@@ -1,0 +1,16 @@
+#summary Place to add your publication using S.A.G.E.
+
+= Introduction =
+
+The recommended way of referencing the current release of the S.A.G.E. programs is as follows:
+
+S.A.G.E. 6.3 [2012]. Statistical Analysis for Genetic Epidemiology http://darwin.cwru.edu/sage/. 
+
+Users of S.A.G.E. Software are requested to post bibliographic information about every paper in which S.A.G.E. is used (author(s), title, journal, volume and page numbers) here.
+
+
+= Details =
+
+The recommended way of referencing the current release of the S.A.G.E. programs is as follows:
+
+S.A.G.E. 6.3 [2012]. Statistical Analysis for Genetic Epidemiology http://darwin.cwru.edu/sage/. 
