@@ -1,4 +1,4 @@
-#summary Place to add your publication using S.A.G.E.
+#summary Place to add information about publications utilizing S.A.G.E.
 
 = Introduction =
 
