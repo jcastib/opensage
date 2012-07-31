@@ -71,7 +71,7 @@ These symbols must be defined for the app library to build correctly. If any one
 
 Static class providing conversion functions for APP::app_index_type and micro version number
 
-=== 3. BasicParser ===
+=== 3. !BasicParser ===
 
 Virtual base class for all programs' parsers
 
@@ -79,7 +79,7 @@ Virtual base class for all programs' parsers
 
 Converts LSF attribute data into basic data types
 
-=== 5. Output_Streams ===
+=== 5. !Output_Streams ===
 
 Provides basic output streams for SAGE programs
 
@@ -151,7 +151,7 @@ The FPED library breaks down into two pieces:
 
 === 1. FilteredMultipedigree Objects ===
 
-The FilteredMultipedigree Objects are a SAGE::MPED::multipedigree derived template instantiation and the associated info classes.  Information is stored at the Multipedigree, Pedigree and Member levels.  The last, which differs from the SAGE::RPED::RefMultiPedigree, is provided for direct access to member data through the member themselves.
+The !FilteredMultipedigree Objects are a SAGE::MPED::multipedigree derived template instantiation and the associated info classes.  Information is stored at the Multipedigree, Pedigree and Member levels.  The last, which differs from the SAGE::RPED::RefMultiPedigree, is provided for direct access to member data through the member themselves.
 
 The interfaces to the info classes mimic those provided by the
 SAGE::RPED::RefMultiPedigree, with a few minor changes and additions.  The member info class also mimics the SAGE::RPED::RefPedInfo interface, but reduces it to specifically target the member.  Algorithms written to use the
