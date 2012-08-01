@@ -1,11 +1,9 @@
 #summary Place to add information about publications utilizing S.A.G.E.
 
-= Introduction =
 
 Users of S.A.G.E. Software are requested to post bibliographic information about every paper in which S.A.G.E. is used (author(s), title, journal, volume and page numbers) here.
 
 
-= Details =
 
 The recommended way of referencing the current release of the S.A.G.E. programs is as follows:
 
