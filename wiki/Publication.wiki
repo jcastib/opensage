@@ -220,6 +220,8 @@ The recommended way of referencing the current release of the S.A.G.E. programs 
 
  * Mukhopadhyay N et al (2005) Mega2: data-handling for facilitating genetic linkage and association analyses. Bioinformatics 21 (10):2556-2557. *SAGE (in a listing / honorable mention)*
 
+ * Reck BH, Mukhopadhyay N, Tsai HJ, Weeks DE. 2005. Analysis of alcohol dependence phenotype in the COGA families using covariates to detect linkage. BMC Genet 6(Suppl 1):S143 *LODPAL*
+
  * Sun XK, Xu AE, Meng W, Wei XD, Jiang ZM, Yan XF, Ou YJ, Lu LJ, Chen MH, Zhang DM. (2005) [Study on genetic epidemiology on 815 patients with vitiligo in Zhejiang area.] (in Chinese) Zhonghua Liu Xing Bing Xue Za Zhi. 2005 Nov;26(11):911-4. PMID:16676617 *REGTL*
 
  * Yamaguchi T et al (2005) Genome-wide linkage analysis of mandibular prognathism in Korean and Japanese patients. J Dent.Res 84 (3):255-259. *SIBPAL*
@@ -299,6 +301,8 @@ The recommended way of referencing the current release of the S.A.G.E. programs 
  * Chen Y et al (2001) Segregation analyses of asthma and respiratory allergy: the Humboldt family study. Am J Med Genet 104 (1):23-30. *REGD*
 
  * Forrest WF (2001) Weighting improves the "new Haseman-Elston" method. Hum Hered 52 (1):47-54. *SIBPAL*
+
+ * Goddard KA, Witte JS, Suarez BK, Catalona WJ, Olson JM (2001) Model-free linkage analysis with covariates confirms linkage of prostate cancer to chromosomes 1 and 4. Am J Hum Genet 68:1197–1206 *LODPAL*
 
  * Jawaheer D et al (2001) A genomewide screen in multiplex rheumatoid arthritis families suggests genetic overlap with other autoimmune diseases. Am J Hum Genet 68 (4):927-936. *SIBPAL*
 
@@ -414,4 +418,3 @@ The recommended way of referencing the current release of the S.A.G.E. programs 
  * Nemesure BB, He Q, and Mendell N (1995) Integration of linkage analyses and disease association studies. Genet Epidemiol 12 (6):653-658. *REGD*
 
  * Spence MA, Flodman PL, Sadovnick AD, Bailey-Wilson JE, Ameli H, Remick RA. Bipolar disorder: evidence for a major locus. Am J Med Genet. 1995 Oct 9;60(5):370-6. PMID:8546148 *SAGE (complex segregation anlyses)*
-
